@@ -29,13 +29,16 @@ When you click a card, it becomes bigger and shows a title. This effect is smoot
 
 ## 📁 Folder Structure
 
+```
 index.html
 style.css
 script.js
 images/
+```
 
 
 ## 📄 License
 
 MIT License — free to use for learning and personal projects.
+
 
