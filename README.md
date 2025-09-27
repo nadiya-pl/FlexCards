@@ -24,7 +24,8 @@ When you click a card, it becomes bigger and shows a title. This effect is smoot
 
 ## 📸 Screenshot
 
-_Add screenshot here later_
+<img width="1830" height="896" alt="FlexCardsImg" src="https://github.com/user-attachments/assets/8ff54a56-c54b-46bb-9ae7-7e0a7cd46c5d" />
+
 
 ## 📁 Folder Structure
 
@@ -37,3 +38,4 @@ images/
 ## 📄 License
 
 MIT License — free to use for learning and personal projects.
+
